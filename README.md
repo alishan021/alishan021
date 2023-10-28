@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @alishan021
-- 👀 I’m interested in back end devolopment
-- 🌱 I’m currently learning C &Java
-- 💞️ I’m looking to collaborate something that i can bring you something.
+- Hai, I am Muhammed Alishan.
+- Currently learning MEAN stack to becoming a full stack devoloper.
 - 📫 How to reach me ...@Alishan_21 (telegram)
 
 <!---
